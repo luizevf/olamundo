@@ -1,0 +1,18 @@
+O que é o git e para o que serve? 
+
+O git é um sistema de controle de versão, criado pelo Linus Torvalds que é também o criador do Kernel do linux.
+
+O ojbetivo do git é fornecer um controle maior sobre algum projeto, possibilitando que equipes façam modificações no código
+por meio de cópias seguras, e permitindo que se retorne a alguma versão anterior do projeto caso ocorra qualquer problema.
+
+Ele funciona através de Commits, que são registros de etapas do projeto a ser desenvolvido.
+Quando é feito alguma alteração no projeto, seja adicionando uma nova funcionalidade ou melhoras na escrita do código,cria-se
+então um branch que é quando fazemos uma cópia do nosso projeto para poder fazer novas alterações sem impactar no projeto que
+havia sido desenvolvido até então. 
+Assim que se termina de fazer alterações através do branch, podemos dar um merge para subir
+essas alterações para a versão oficial do nosso projeto.
+
+Além disso, existem outras funcionalidades como por exemplo "issues" que são quando criamos por exemplo algum tópico sugerindo
+melhoria de alguma função dentro do nosso código e também Pull Requests que permite que o usuário contribua com algum projeto
+de algum outro usuário.
+
